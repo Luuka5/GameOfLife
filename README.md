@@ -2,7 +2,7 @@
 
 This project is John Conway's Game of Life made with java and Processing library.
 
-![My Game of Life with glow effect](/relative/path/to/img.jpg?raw=true "Optional Title")
+![My Game of Life with glow effect](/Screenshot.jpg?raw=true)
 
 ## How to run
 1. Download and install Processing 3.5.4 from https://processing.org/download/.
